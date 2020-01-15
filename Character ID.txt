@@ -1,0 +1,79 @@
+100001,Uly
+100002,Stella
+100003,Duncan
+100004,Lana
+100005,Anna Marie
+100006,Sasha
+100007,Rosalinde
+100008,Boozer
+100009,Bernhardt
+100010,Sandra
+100011,Nadia
+100012,Phuramy
+100013,Amane
+100014,Popo Purin
+100015,Reiner
+100016,Killion
+100017,Abielle
+100018,Jasper
+100019,Karin
+100020,Gustav
+100021,Kaempfer
+100022,Tyrol
+100023,Lycaon
+100024,Walter
+100025,Emma
+100026,Schenk
+100027,Rachel
+100028,Madoc
+100029,Zola
+100030,Erwin
+100031,Barnabas
+100032,Tanya
+100033,Wolf
+100034,Gerda
+100035,Hermina
+100036,Melissa
+100037,Emil
+100038,Quna
+100039,Tsubakuro
+100040,Gene
+100041,Siegmund
+100042,Messala
+100043,Torbjorn
+100044,Kibaki
+100045,Astraea
+100046,Kyra
+100047,Totonotto
+100048,Melder
+100049,Roxanne
+100050,Lillimo
+100051,Theatre
+100052,Logia
+100053,Wyndis
+100055,Sven
+100056,Lize
+100057,Nicole
+100058,Canute
+100059,Shannon
+100060,Clemence
+100063,Mint
+100069,Eren
+100070,Levi
+100071,Mikasa
+100074,Luther
+100075,Matoi
+100079,Rappy
+101007,Rosalinde [Christmas]
+102002,Stella [New Year]
+104002,Stella [Summer]
+104012,Phyramy [Summer]
+104053,Wyndis [Summer]
+106019,Karin [Halloween]
+107034,Gerda [Christmas]
+108002,Stella [Memories]
+108007,Rosalinde [New Year]
+191002,Stella [EX]
+191044,Kibaki [EX]
+191045,Astraea [EX]
+191053,Wyndis [EX]

@@ -74,6 +74,7 @@
 108002,Stella [Memories]
 108007,Rosalinde [New Year]
 191002,Stella [EX]
+191018,Jasper [EX]
 191044,Kibaki [EX]
 191045,Astraea [EX]
 191053,Wyndis [EX]

@@ -1,80 +1,238 @@
-100001,Uly
-100002,Stella
-100003,Duncan
-100004,Lana
-100005,Anna Marie
-100006,Sasha
-100007,Rosalinde
-100008,Boozer
-100009,Bernhardt
-100010,Sandra
-100011,Nadia
-100012,Phuramy
-100013,Amane
-100014,Popo Purin
-100015,Reiner
-100016,Killion
-100017,Abielle
-100018,Jasper
-100019,Karin
-100020,Gustav
-100021,Kaempfer
-100022,Tyrol
-100023,Lycaon
-100024,Walter
-100025,Emma
-100026,Schenk
-100027,Rachel
-100028,Madoc
-100029,Zola
-100030,Erwin
-100031,Barnabas
-100032,Tanya
-100033,Wolf
-100034,Gerda
-100035,Hermina
-100036,Melissa
-100037,Emil
-100038,Quna
-100039,Tsubakuro
-100040,Gene
-100041,Siegmund
-100042,Messala
-100043,Torbjorn
-100044,Kibaki
-100045,Astraea
-100046,Kyra
-100047,Totonotto
-100048,Melder
-100049,Roxanne
-100050,Lillimo
-100051,Theatre
-100052,Logia
-100053,Wyndis
-100055,Sven
-100056,Lize
-100057,Nicole
-100058,Canute
-100059,Shannon
-100060,Clemence
-100063,Mint
-100069,Eren
-100070,Levi
-100071,Mikasa
-100074,Luther
-100075,Matoi
-100079,Rappy
-101007,Rosalinde [Christmas]
-102002,Stella [New Year]
-104002,Stella [Summer]
-104012,Phuramy [Summer]
-104053,Wyndis [Summer]
-106019,Karin [Halloween]
-107034,Gerda [Christmas]
-108002,Stella [Memories]
-108007,Rosalinde [New Year]
-191002,Stella [EX]
-191018,Jasper [EX]
-191044,Kibaki [EX]
-191045,Astraea [EX]
-191053,Wyndis [EX]
+10000100,Uly
+10000111,Uly (L)
+10000112,Uly (C)
+10000201,Stella
+10000211,Stella
+10000212,Stella
+10000300,Duncan
+10000310,Duncan
+10000312,Duncan (C)
+10000400,Lana (N)
+10000411,Lana
+10000412,Lana
+10000502,Anna Marie
+10000511,Anna Marie
+10000512,Anna Marie
+10000601,Sasha
+10000611,Sasha
+10000612,Sasha
+10000701,Rosalinde
+10000711,Rosalinde
+10000712,Rosalinde
+10000802,Boozer
+10000811,Boozer
+10000812,Boozer
+10000901,Bernhardt
+10000911,Bernhardt
+10000912,Bernhardt
+10001002,Sandra
+10001011,Sandra
+10001012,Sandra
+10001101,Nadia
+10001111,Nadia
+10001112,Nadia
+10001200,Phuramy
+10001210,Phuramy
+10001212,Phuramy (C)
+10001302,Amane
+10001311,Amane
+10001312,Amane
+10001401,Popo Purin
+10001411,Popo Purin
+10001412,Popo Purin
+10001502,Reiner
+10001511,Reiner
+10001512,Reiner
+10001602,Killion
+10001611,Killion
+10001612,Killion
+10001702,Abielle
+10001711,Abielle
+10001712,Abielle
+10001802,Jasper
+10001811,Jasper
+10001812,Jasper
+10001902,Karin
+10001911,Karin
+10001912,Karin
+10002001,Gustav
+10002011,Gustav
+10002012,Gustav
+10002101,Kaempfer
+10002111,Kaempfer
+10002112,Kaempfer
+10002201,Tyrol
+10002211,Tyrol
+10002212,Tyrol
+10002302,Lycaon
+10002311,Lycaon
+10002312,Lycaon
+10002401,Walter
+10002411,Walter
+10002412,Walter
+10002501,Emma
+10002511,Emma
+10002512,Emma
+10002602,Schenk
+10002611,Schenk
+10002612,Schenk
+10002702,Rachel
+10002711,Rachel
+10002712,Rachel
+10002802,Madoc
+10002811,Madoc
+10002812,Madoc
+10002902,Zola
+10002911,Zola
+10002912,Zola
+10003001,Erwin
+10003011,Erwin
+10003012,Erwin
+10003101,Barnabas
+10003111,Barnabas
+10003112,Barnabas
+10003200,Tanya
+10003210,Tanya
+10003212,Tanya (C)
+10003301,Wolf
+10003311,Wolf
+10003312,Wolf
+10003401,Gerda
+10003411,Gerda
+10003412,Gerda
+10003501,Hermina
+10003511,Hermina
+10003512,Hermina
+10003602,Melissa
+10003611,Melissa
+10003612,Melissa
+10003701,Emil
+10003711,Emil
+10003712,Emil
+10003800,Quna (N)
+10003811,Quna
+10003812,Quna
+10003902,Tsubakuro
+10003911,Tsubakuro
+10003912,Tsubakuro
+10004000,Gene (N)
+10004011,Gene
+10004012,Gene
+10004101,Siegmund
+10004111,Siegmund
+10004112,Siegmund
+10004202,Messala
+10004211,Messala
+10004212,Messala
+10004302,Torbjorn
+10004311,Torbjorn
+10004312,Torbjorn
+10004402,Kibaki
+10004411,Kibaki
+10004412,Kibaki
+10004500,Astraea
+10004510,Astraea
+10004512,Astraea (C)
+10004601,Kyra
+10004611,Kyra
+10004612,Kyra
+10004701,Totonotto
+10004711,Totonotto
+10004712,Totonotto
+10004802,Melder
+10004811,Melder
+10004812,Melder
+10004901,Roxanne
+10004911,Roxanne
+10004912,Roxanne
+10005000,Lillimo
+10005010,Lillimo
+10005011,Lillimo (L)
+10005102,Theatre
+10005111,Theatre
+10005112,Theatre
+10005200,Logia (N)
+10005211,Logia
+10005212,Logia
+10005302,Wyndis
+10005311,Wyndis
+10005312,Wyndis
+10005501,Sven
+10005511,Sven
+10005512,Sven
+10005602,Lize
+10005611,Lize
+10005612,Lize
+10005702,Nicole
+10005711,Nicole
+10005712,Nicole
+10005800,Canute
+10005810,Canute
+10005811,Canute (L)
+10005900,Shannon (N)
+10005911,Shannon
+10005912,Shannon
+10006000,Clemence
+10006010,Clemence
+10006012,Clemence (C)
+10006300,Mint (N)
+10006311,Mint
+10006312,Mint
+10006900,Eren
+10006910,Eren
+10006912,Eren (C)
+10007000,Levi
+10007010,Levi
+10007012,Levi (C)
+10007100,Mikasa
+10007110,Mikasa
+10007112,Mikasa (C)
+10007400,Luther (N)
+10007411,Luther
+10007412,Luther
+10007501,Matoi
+10007511,Matoi
+10007512,Matoi
+10007900,Rappy
+10100701,Rosalinde [Christmas]
+10100711,Rosalinde [Christmas]
+10100712,Rosalinde [Christmas]
+10200201,Stella [New Year]
+10200211,Stella [New Year]
+10200212,Stella [New Year]
+10400201,Stella [Summer]
+10400211,Stella [Summer]
+10400212,Stella [Summer]
+10401200,Phuramy [Summer]
+10401210,Phuramy [Summer]
+10401212,Phuramy [Summer] (C)
+10405302,Wyndis [Summer]
+10405311,Wyndis [Summer]
+10405312,Wyndis [Summer]
+10601902,Karin [Halloween]
+10601911,Karin [Halloween]
+10601912,Karin [Halloween]
+10703401,Gerda [Christmas]
+10703411,Gerda [Christmas]
+10703412,Gerda [Christmas]
+10800201,Stella [Memories]
+10800211,Stella [Memories]
+10800212,Stella [Memories]
+10800701,Rosalinde [New Year]
+10800711,Rosalinde [New Year]
+10800712,Rosalinde [New Year]
+19100201,Stella [EX]
+19100211,Stella [EX]
+19100212,Stella [EX]
+19101802,Jasper [EX]
+19101811,Jasper [EX]
+19101812,Jasper [EX]
+19104402,Kibaki [EX]
+19104411,Kibaki [EX]
+19104412,Kibaki [EX]
+19104500,Astraea [EX]
+19104510,Astraea [EX]
+19104512,Astraea [EX] (C)
+19105302,Wyndis [EX]
+19105311,Wyndis [EX]
+19105312,Wyndis [EX]

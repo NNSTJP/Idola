@@ -175,12 +175,18 @@
 10006000,Clemence
 10006010,Clemence
 10006012,Clemence (C)
+10006202,Luke
+10006211,Luke
+10006212,Luke
 10006100,Parameter (N)
 10006111,Parameter
 10006112,Parameter
 10006300,Mint (N)
 10006311,Mint
 10006312,Mint
+10006502,Odette
+10006511,Odette
+10006512,Odette
 10006602,Gilbert
 10006611,Gilbert
 10006612,Gilbert
@@ -212,6 +218,15 @@
 10007811,Selvaria
 10007812,Selvaria
 10007900,Rappy
+10010000,Master M
+10010011,Master M (L)
+10010012,Master M (C)
+10010100,Master F
+10010111,Master F (L)
+10010112,Master F (C)
+10010302,Giselle
+10010311,Giselle
+10010312,Giselle
 10100701,Rosalinde [Christmas]
 10100711,Rosalinde [Christmas]
 10100712,Rosalinde [Christmas]
@@ -239,6 +254,9 @@
 10800701,Rosalinde [New Year]
 10800711,Rosalinde [New Year]
 10800712,Rosalinde [New Year]
+19100100,Uly [EX]
+19100111,Uly [EX] (L)
+19100112,Uly [EX] (C)
 19100201,Stella [EX]
 19100211,Stella [EX]
 19100212,Stella [EX]

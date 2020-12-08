@@ -193,6 +193,9 @@
 10006602,Gilbert
 10006611,Gilbert
 10006612,Gilbert
+10006701,Chloe
+10006711,Chloe
+10006712,Chloe
 10006802,Vanessa
 10006811,Vanessa
 10006812,Vanessa
@@ -254,9 +257,9 @@
 10011302,Giselle [Summer]
 10011311,Giselle [Summer]
 10011312,Giselle [Summer]
-10011400,Gene [Summer]
-10011411,Gene [Summer] (L)
-10011412,Gene [Summer] (C)
+10011400,Gene [Summer] (N)
+10011411,Gene [Summer]
+10011412,Gene [Summer]
 10011502,Crula
 10011511,Crula
 10011512,Crula
@@ -272,6 +275,15 @@
 10012500,Popona [Anniversary]
 10012511,Popona [Anniversary] (L)
 10012512,Popona [Anniversary] (C)
+10012700,Io (N)
+10012711,Io
+10012712,Io
+10012802,Giselle [New Year]
+10012811,Giselle [New Year]
+10012812,Giselle [New Year]
+10012901,Matoi [Christmas]
+10012911,Matoi [Christmas]
+10012912,Matoi [Christmas]
 10100712,Rosalinde [Christmas]
 10100711,Rosalinde [Christmas]
 10100712,Rosalinde [Christmas]
@@ -308,6 +320,9 @@
 19101101,Nadia [EX]
 19101111,Nadia [EX]
 19101112,Nadia [EX]
+19101302,Amane [EX]
+19101311,Amane [EX]
+19101312,Amane [EX]
 19101702,Abeille [EX]
 19101711,Abeille [EX]
 19101712,Abeille [EX]
@@ -332,6 +347,9 @@
 19104901,Roxanne [EX]
 19104911,Roxanne [EX]
 19104912,Roxanne [EX]
+19105200,Logia [EX] (N)
+19105211,Logia [EX]
+19105212,Logia [EX]
 19105302,Wyndis [EX]
 19105311,Wyndis [EX]
 19105312,Wyndis [EX]
